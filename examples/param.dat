@@ -1,0 +1,5 @@
+@kernel
+type dot
+@parameters
+C 1000
+epsilon 0.01
